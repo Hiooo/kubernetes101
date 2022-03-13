@@ -1,4 +1,6 @@
 https://hub.docker.com/editions/community/docker-ce-desktop-windows
+https://minikube.sigs.k8s.io/docs/start/
+https://gitlab.com/nanuchi/k8s-in-1-hour
 
 minikube start --driver docker
 
