@@ -1,0 +1,24 @@
+https://hub.docker.com/editions/community/docker-ce-desktop-windows
+
+minikube start --driver docker
+
+minikube status
+
+kubectl get node
+
+echo -n mongouser | base64
+
+kubectl apply -f "alle config filene"
+
+kubectl get all
+
+kubectl get svc
+
+minikube ip
+
+or 
+
+kubectl get node
+kubectl get node -o wide
+
+hub.docker.com/repository/docker/nanajanashia/k8s-demo-app
